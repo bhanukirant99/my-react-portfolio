@@ -2,39 +2,44 @@
   "main": {
     "name": "Bhanu Kiran",
     "occupation": "MERN Full stack developer and Cyber Security enthusiast",
-    "description": "Full Stack React Developer, Cyber Security analyst and Compititive Programmer",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "description": "Full Stack React Developer, Cyber Security explorer and Compititive Programmer",
+    "image": "MyPic.jpeg",
+    "bio": "My name is Bhanu Kiran, I'm a Full Stack ReactJS Developer, Cyber Security Enthusiast and a Programmer. Currently I'm lokking out for Internships and Part time job opportunities ",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "bhanukirant99@gmail.com",
+    "phone": "+91 988 661 4571",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "#79, 4th A Cross, Gajanana Nagar, Hegganahalli Cross",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560091"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
+        "name": "email",
+        "url": " bhanukirant99@gmail.com",
+        "className": "fa fa-email"
+      },
+      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/bhanu.kiran.1694/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/bhanu-kiran-t-40695b1a6/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/bhanukiran.t/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/bhanukirant99/",
         "className": "fa fa-github"
       }
     ]
@@ -43,24 +48,9 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "school": "Sri Krishna International Public School",
+        "degree": "Persuing Diploma in Computer Science and Engineering",
+        "description": "Open for Job opportunities"
       }
     ],
     "skills": [
@@ -69,70 +59,84 @@
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "NodeJs",
+        "level": "80%"
       },
+      {
+        "name": "ExpressJs",
+        "level": "80%"
+      }
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "MongoDB",
+        "level": "80%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "C",
+        "level": "95%"
+      },
+      {
+        "name": "C++",
+        "level": "65%"
+      },
+      {
+        "name": "C++",
+        "level": "65%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "55%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Google Store Locator",
+        "category": "Starbucks store locator built with javascript, used to locate Starbucks",
+        "image": "Google-Store-Locator.jpg",
+        "url": "https://google-store-locator.imfast.io/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Face Detection App",
+        "category": "Face Detection App built with ReactJS",
+        "image": "facedetectionapp.png",
+        "url": "https://facedetectionapp.imfast.io/index.html"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Weather App",
+        "category": "Weather App built with NodeJS",
+        "image": "weatherapp.jpg",
+        "url": "https://bhanukiran-weather-app.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
+        "title": "Robo Friends",
+        "category": "Robo Friends built with ReactJS",
+        "image": "robofriends.png",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
