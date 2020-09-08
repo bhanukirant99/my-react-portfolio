@@ -18,11 +18,6 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "email",
-        "url": " bhanukirant99@gmail.com",
-        "className": "fa fa-email"
-      },
-      {
         "name": "facebook",
         "url": "https://www.facebook.com/bhanu.kiran.1694/",
         "className": "fa fa-facebook"
